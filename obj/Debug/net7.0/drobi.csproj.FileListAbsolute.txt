@@ -1,0 +1,15 @@
+C:\Users\Alenushk\Desktop\инфа\drobi\bin\Debug\net7.0\drobi.exe
+C:\Users\Alenushk\Desktop\инфа\drobi\bin\Debug\net7.0\drobi.deps.json
+C:\Users\Alenushk\Desktop\инфа\drobi\bin\Debug\net7.0\drobi.runtimeconfig.json
+C:\Users\Alenushk\Desktop\инфа\drobi\bin\Debug\net7.0\drobi.dll
+C:\Users\Alenushk\Desktop\инфа\drobi\bin\Debug\net7.0\drobi.pdb
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.csproj.AssemblyReference.cache
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.AssemblyInfoInputs.cache
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.AssemblyInfo.cs
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.csproj.CoreCompileInputs.cache
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.dll
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\refint\drobi.dll
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.pdb
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\drobi.genruntimeconfig.cache
+C:\Users\Alenushk\Desktop\инфа\drobi\obj\Debug\net7.0\ref\drobi.dll
